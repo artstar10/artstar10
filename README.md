@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 Atualmente estou trabalhando em ... c#
 - 🌱 Atualmente estou aprendendo ... javascript, node, kotlin, python
 - 👯 procuro colaborar em ... comunidades, discord, projetos open source
-- 🤔 Estou procurando ajuda com ... carreira
+- 🙏 Estou procurando ajuda com ... carreira
 - 💬 Pergunte-me sobre ...
 - 📫 How to reach me: ...me pergunte
 - ⚡ Fun fact: ... Participei da 2ª edição do hackaton de programação da empresa siemens em 2019 com estudantes e empresas
