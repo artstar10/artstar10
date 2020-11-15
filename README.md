@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Atualmente estou trabalhando em ... c#
-- 🌱 Atualmente estou aprendendo ... javascript, node, kotlin, python
-- 👯 procuro colaborar em ... comunidades, discord, projetos open source
+- 🔭 Atualmente estou trabalhando em ... mobile
+- 🌱 Atualmente estou aprendendo ... javascript, node, kotlin, python e git
+- 👯 procuro colaborar em ... comunidades, discord, cursos de programação e projetos open source
 - 🙏 Estou procurando ajuda com ... carreira
 - 💬 Pergunte-me sobre ...
 - 📫 How to reach me: ...me pergunte
