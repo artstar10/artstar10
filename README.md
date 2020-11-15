@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... c#
-- 🌱 I’m currently learning ... javascript, node, kotlin, python
-- 👯 I’m looking to collaborate on ... projetos open source
-- 🤔 I’m looking for help with ... carreira
-- 💬 Ask me about ...
+- 🔭 Atualmente estou trabalhando em ... c#
+- 🌱 Atualmente estou aprendendo ... javascript, node, kotlin, python
+- 👯 procuro colaborar em ... comunidades, discord, projetos open source
+- 🤔 Estou procurando ajuda com ... carreira
+- 💬 Pergunte-me sobre ...
 - 📫 How to reach me: ...me pergunte
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... Já participei de um hackaton presencial na empresa siemens na 2ª edição do #hackasiemens
+- ⚡ Fun fact: ... Participei da 2ª edição do hackaton de programação da empresa siemens em 2019 com estudantes e empresas
