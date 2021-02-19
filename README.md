@@ -1,4 +1,5 @@
-### Hi there, welcome to my profile 👋
+### Hi, there
+my name is Arthur welcome to my profile! 👋
 
 <!--
 - 🔭 Atualmente atuando em projetos web e mobile como trainee
