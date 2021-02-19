@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Atualmente estou trabalhando em ... mobile
+- 🔭 Atualmente estou atuando em projetos web e mobile como trainee
 - 🌱 Atualmente estou aprendendo ... javascript, node, kotlin, python e git
 - 👯 procuro colaborar em ... comunidades, discord, cursos de programação e projetos open source
 - 🙏 Estou procurando ajuda com ... carreira
 - 💬 Pergunte-me sobre ...
 - 📫 How to reach me: ...me pergunte
-- ⚡ Fun fact: ... Participei da 2ª edição do hackaton de programação da empresa siemens em 2019 com estudantes e empresas
+- ⚡ Fun fact: ... Participei da 2ª edição do hackaton de programação da empresa siemens em 2019 com estudantes de engenharia e T.I - IOT indústria 4.0
