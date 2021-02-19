@@ -1,23 +1,10 @@
 ### Hi there, welcome to my profile 👋
 
 <!--
-**artstar10/artstar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 Atualmente estou atuando em projetos web e mobile como trainee
-- 🌱 Atualmente estou aprendendo ... javascript, node, kotlin, python e git
-- 👯 procuro colaborar em ... comunidades, discord, cursos de programação e projetos open source
+- 🔭 Atualmente atuando em projetos web e mobile como trainee
+- 🐛 Atualmente aprendendo ... javascript, node, kotlin, python e git
+- 👯 procuro colaborar em ... comunidades, discord, bootcamp, cursos de programação e projetos open source
 - 🙏 Estou procurando ajuda com ... carreira
-- 💬 Pergunte-me sobre ...
-- 📫 How to reach me: ...me pergunte
-- ⚡ Fun fact: ... Participei da 2ª edição do hackaton de programação da empresa siemens mais conhecido como #hackasiemens em 2019 com estudantes de engenharia e T.I - IOT indústria 4.0
+- 💬 Pergunte-me sobre ... mim
+- 📫 How to reach me: ... me pergunte
+- ⚡ fato: ... Participei da 2ª edição do hackaton de programação da empresa siemens mais conhecido como #hackasiemens em 2019 com estudantes de engenharia e T.I - IOT indústria 4.0
