@@ -8,4 +8,4 @@ my name is Arthur welcome to my profile! 👋
 - 🙏 Estou procurando ajuda com ... carreira
 - 💬 Pergunte-me sobre ... mim
 - 📫 How to reach me: ... me pergunte
-- ⚡ fato: ... Participei da 2ª edição do hackaton de programação da empresa siemens mais conhecido como #hackasiemens em 2019 com estudantes de engenharia e T.I - IOT indústria 4.0
+- ⚡ fato: ... Participei da 2ª edição do hackaton de programação da empresa siemens mais conhecido como #hackasiemens em 2019 com estudantes de engenharia e T.I - IOT indústria 4.0 -->
