@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🙏 Estou procurando ajuda com ... carreira
 - 💬 Pergunte-me sobre ...
 - 📫 How to reach me: ...me pergunte
-- ⚡ Fun fact: ... Participei da 2ª edição do hackaton de programação da empresa siemens em 2019 com estudantes de engenharia e T.I - IOT indústria 4.0
+- ⚡ Fun fact: ... Participei da 2ª edição do hackaton de programação da empresa siemens mais conhecido como #hackasiemens em 2019 com estudantes de engenharia e T.I - IOT indústria 4.0
