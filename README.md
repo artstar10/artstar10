@@ -45,6 +45,7 @@ My name is Arthur welcome to my profile..!✍
   ![Azure](https://img.shields.io/badge/-AzureDevops-333333?style=flat&logo=azuredevops)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=Asana&logoColor=red)
   
 
 <br/>
