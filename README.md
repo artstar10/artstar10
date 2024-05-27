@@ -47,7 +47,7 @@ My name is Arthur welcome to my profile..!✍
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=Asana&logoColor=red)
   ![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=FFD02F)
-
+![Whimsical](https://img.shields.io/badge/-Whimsical-6833FF?style=flat&logo=whimsical&logoColor=white)
 <br/>
 
 <!-- <a href="https://github.com/artstar10">
