@@ -5,8 +5,8 @@ My name is Arthur welcome to my profile..!✍
 
 - 🔭 &nbsp; Explorando node.js e desenvolvendo soluções de software.
 - 🎓 &nbsp; **Information Systems** na <a href="https://www.uninove.br/cursos/graduacao/presencial/sistemas-de-informacao">Uninove</a>.
-- 💼 &nbsp; Trabalhando com **Desenvolvimento Back-end** na <a href="https://br.nttdata.com/">Everis/NTTDATA</a>
-- 🐛 &nbsp; Aprendendo mais sobre **Typescript e Node.js**.
+- 💼 &nbsp; Trabalhando com **Desenvolvimento Back-end** na empresa <a href="https://www.sinch.com/pt-br">Sinch</a>
+- 🐛 &nbsp; Aprendendo mais sobre **Javascript, Node.js e inteligência artificial**.
 - ⚡ fato: ... Participei da 2ª edição do hackaton de programação da empresa siemens mais conhecido como #hackasiemens em 2019 com estudantes de engenharia e T.I - IoT indústria 4.0
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -46,7 +46,7 @@ My name is Arthur welcome to my profile..!✍
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Asana](https://img.shields.io/badge/-Asana-333333?style=flat&logo=Asana&logoColor=red)
-  
+  ![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=FFD02F)
 
 <br/>
 
