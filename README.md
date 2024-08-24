@@ -1,7 +1,7 @@
 <h3> 👨‍💼: &nbsp;Sobre mim </h3>
-### Hi, there
+### Olá, 
 
-My name is Arthur welcome to my profile..!✍
+Meu nome é Arthur! Seja bem vindo ao meu perfil..!✍
 
 - 🔭 &nbsp; Explorando node.js e desenvolvendo soluções de software.
 - 🎓 &nbsp; **Information Systems** na <a href="https://www.uninove.br/cursos/graduacao/presencial/sistemas-de-informacao">Uninove</a>.
