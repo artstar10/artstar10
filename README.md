@@ -66,6 +66,7 @@ Meu nome é Arthur! Seja bem vindo ao meu perfil..!✍
 
 
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=artstar10&repo=artstar10)
 
 
 
